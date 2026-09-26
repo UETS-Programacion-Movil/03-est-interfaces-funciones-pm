@@ -16,6 +16,7 @@
 - [ ] Mi rostro y voz son claramente visibles y audibles.
 - [ ] Explico interfaces, readonly, opcionales, funciones tipadas y destructuración con ejemplos de mi código.
 - [ ] Muestro en terminal `pnpm test` y `pnpm run check` en verde.
+- [ ] Video con subtítulos/transcripción adjunta (accesibilidad).
 
 ---
 
